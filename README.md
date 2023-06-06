@@ -1,3 +1,7 @@
+# BD_Praktikum3
+### Bisa dicek disini
+https://github.com/RadjaAzukio/BD_Praktikum3/blob/main/README.md
+
 # BD_Praktikum5
 
 ### 1.Tabel Mahasiswa
